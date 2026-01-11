@@ -1,0 +1,14 @@
+{
+  "name": "nuelbot",
+  "version": "1.0.0",
+  "description": "Best Bot Ever — NuelSuperBot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^6.7.0",
+    "pino": "^9.0.0"
+  }
+}
